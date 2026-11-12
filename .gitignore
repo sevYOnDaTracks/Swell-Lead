@@ -1,0 +1,8 @@
+build/
+build-release/
+build-*/
+deps/
+*.log
+.DS_Store
+Demo/
+._*
